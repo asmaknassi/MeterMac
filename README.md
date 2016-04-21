@@ -16,3 +16,7 @@ en s’appuyant sur la librairie générique qui encapsule des Web services.
 session et sur reprise d’activité après plus de 30 minutes d’inactivité. Ce prompt présentera les prénoms des membres du 
 foyer qu’il récupèrera sur un serveur de déclaration en Back-office via la lib générique. Les évènements de déclaration 
 seront placés en base de données et transmis au serveur de collecte en même temps que les évènements de détection de contenu.
+
+étape 1: recuperation du son nurmerique depuis la carte son du driver du Mac 
+étape 2: incorporer la librarire de kanter pour le watermarking
+étape 3: enregistrement des donnnees dans une BDD
